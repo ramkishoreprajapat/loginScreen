@@ -1,8 +1,7 @@
 # login_app
 
 Making a login screen.
-<img src="https://github.com/ramkishoreprajapat/loginScreen/blob/master/Screenshot_1580549748.png" width="150">
-[![Fibonacci RMI Java EE](https://github.com/ramkishoreprajapat/loginScreen/blob/master/Screenshot_1580549748.png)](https://github.com/ramkishoreprajapat/loginScreen/blob/master/device-2020-02-01-150414.webm "RMI Fibonacci Java")
+<img src="https://github.com/ramkishoreprajapat/loginScreen/blob/master/Screenshot_1580549748.png" width="150"/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
